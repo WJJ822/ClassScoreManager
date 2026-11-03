@@ -1,0 +1,12 @@
+        </main>
+    </div>
+</div>
+
+<div class="page-transition" id="pageTransition" aria-hidden="true">
+    <div class="pt-logo"><span class="brand-core">G</span></div>
+    <div class="pt-line"><span></span></div>
+</div>
+<div class="toast-stack" id="toastStack" aria-live="polite"></div>
+<script src="${ctx}/assets/js/app.js"></script>
+</body>
+</html>

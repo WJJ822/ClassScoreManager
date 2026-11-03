@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  让 IntelliJ IDEA 的 Tomcat 插件能正常识别本应用上下文。
+  实际访问路径仍由运行配置中的 Deployment → Application context 决定（/classscore）。
+-->
+<Context>
+    <WatchedResource>WEB-INF/web.xml</WatchedResource>
+</Context>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ClassScoreManager:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClassScoreManager_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ClassScoreManager/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ClassScoreManager" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

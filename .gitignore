@@ -1,0 +1,9 @@
+out/
+dist/
+data/
+docs/chrome-profile/
+docs/chrome-profile2/
+*.log
+*.tmp
+.idea/workspace.xml
+.idea/shelf/
